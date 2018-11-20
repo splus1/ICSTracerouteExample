@@ -1,4 +1,4 @@
-# ICSTracerouteExample
+# ICS Traceroute Example
 Traceroute Example based on the ICS Components
 
 This was visually modeled after Traceroute example by
